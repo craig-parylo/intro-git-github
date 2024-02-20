@@ -1,6 +1,5 @@
 ---
 title: "my_new_doc"
-author: "Craig"
 format: html
 editor: visual
 embed-resources: true
