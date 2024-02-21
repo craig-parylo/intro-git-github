@@ -1,6 +1,6 @@
 ---
 title: "my_new_doc"
-author: Person A
+author: Person B
 format: html
 editor: visual
 embed-resources: true
